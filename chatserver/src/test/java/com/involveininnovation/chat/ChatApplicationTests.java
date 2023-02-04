@@ -1,10 +1,10 @@
-package dev.johnesleyer.chatserver;
+package com.involveininnovation.chat;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ChatserverApplicationTests {
+class ChatApplicationTests {
 
 	@Test
 	void contextLoads() {
